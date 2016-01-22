@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Fri, 22 Jan 2016 15:49:19 +0100
+Reviewed-on: https://review.gerrithub.io/260642
+Project: rdo-puppet-modules/puppet-tripleo
+Branch: refs/heads/recomb-original-master-b5001ceca43459f7e4e4efc9191692b42a335091
